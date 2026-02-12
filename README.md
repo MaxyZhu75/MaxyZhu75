@@ -1,2 +1,4 @@
 # Welcome!!!
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxyZhu75&hide_title=true&hide_border=true&layout=compact&bg_color=0,EC6C6C,FFD479,FFFC79,CD853F&theme=graywhite&locale=cn" />
+
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaxyZhu75&layout=compact&hide_border=true&langs_count=6&&bg_color=0,ff4e50,f9d423,ffffff&title_color=222222&text_color=222222" />
+
